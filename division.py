@@ -7,3 +7,5 @@ except ZeroDivisionError:
     print("Error: No se puede dividir entre cero.")
 except ValueError:
     print("Error: Introduce un número válido.")
+# Este es un comentario agregado por Cristian para el ejercicio 6
+
